@@ -1,33 +1,23 @@
 ﻿
 #region 2nin quvveti olub olmamasi
-//int n = 8;
-//if (n % 2 == 0)
-//{
-//    while (n % 2 == 0)
-//    {
-//        n /= 2;
-//    }
-//    if (n == 1)
-//    {
-//        Console.WriteLine("Quvvetidir");
-//    }
-//    else
-//    {
-//        Console.WriteLine("Quvveti deyil");
-//    }
+int n = 16;
+if (n % 2 == 0)
+{
+    while (n % 2 == 0)
+    {
+        n /= 2;
+    }
+    if (n == 1)
+    {
+        Console.WriteLine("Quvvetidir");
+    }
+    else
+    {
+        Console.WriteLine("Quvveti deyil");
+    }
 
-//}
-//else
-//{
-//    if (n == 1)
-//    {
-//        Console.WriteLine("Quvvetidir");
-//    }
-//    else
-//    {
-//        Console.WriteLine("Quvveti deyil");
-//    }
-//} 
+}
+
 #endregion
 
 #region Arasindaki ededler
